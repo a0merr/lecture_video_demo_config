@@ -1,8 +1,8 @@
-#Lecture Demo
+# Lecture Demo
 
 This was provided from a lecture video 
 
-##Additional comments
+## Additional comments
 
 I think this is very cool
 
